@@ -1,4 +1,4 @@
-# Next SEO
+# (a clone of) Next SEO (that supports the `doNotRenderDefaultRobotsTags` option)
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors)
 ![npm](https://img.shields.io/npm/dw/next-seo?style=flat-square)

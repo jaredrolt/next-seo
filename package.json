@@ -1,6 +1,6 @@
 {
-  "name": "next-seo",
-  "version": "4.7.3",
+  "name": "@jaredrolt/next-seo",
+  "version": "4.8.0",
   "description": "SEO plugin for Next.js projects",
   "source": "src/index.tsx",
   "main": "lib/next-seo.js",
@@ -44,13 +44,13 @@
     "trailingComma": "all"
   },
   "author": {
-    "name": "Gary Meehan",
-    "email": "garymeehan@outlook.com"
+    "name": "Jared Rolt",
+    "email": "jrolt92@gmail.com"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/garmeeh/next-seo.git"
+    "url": "https://github.com/jaredrolt/next-seo.git"
   },
   "keywords": [
     "next.js",
@@ -60,9 +60,9 @@
     "ssr"
   ],
   "bugs": {
-    "url": "https://github.com/garmeeh/next-seo/issues"
+    "url": "https://github.com/jaredrolt/next-seo/issues"
   },
-  "homepage": "https://github.com/garmeeh/next-seo#readme",
+  "homepage": "https://github.com/jaredrolt/next-seo#readme",
   "devDependencies": {
     "@cypress/schema-tools": "^4.7.1",
     "@types/jest": "^26.0.0",
